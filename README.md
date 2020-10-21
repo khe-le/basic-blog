@@ -1,5 +1,6 @@
 <div style="align: center">
    <h2>A basic blog website built with Node, Express, and EJS</h2>
+   <img alt="Website Image" src="https://drive.google.com/uc?export=view&id=1LZjjzkktAoDifMs04UHy4gkfFeT489LN" width="1000">
 </div>
 
 ## Installation & Set Up
